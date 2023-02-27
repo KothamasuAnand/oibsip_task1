@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,400;0,800;0,900;1,100;1,900&family=Roboto:ital,wght@0,100;0,400;0,900;1,100;1,900&display=swap');
+.nav-txt {
+    color: #462E6A;
+    font-size: 1.75rem;
+    font-family: "Mulish";
+}
+
+.navmargin {
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 2rem;
+}
+
+.txtcolor {
+    size: 3rem;
+    color: #3C567B;
+    width: 55%;
+}
+
+.mtc {
+    margin-top: 7rem;
+}
+
+.docimg {
+    width: 100%;
+}
+
+.mtop {
+    margin-top: 5rem;
+}
+
+.btncon {
+    background-color: #4591fa;
+    border-color: #4591fa;
+}
+
+.para {
+    color: #93C1F9;
+    width: 55%;
+    margin-top: 1.5rem;
+    font-family: "Roboto";
+    padding-bottom: 3rem;
+}
+
+.btnclass {
+    margin-top: 3rem;
+    margin-left: 3.5rem;
+    padding-top: 17.5px;
+    padding-bottom: 17.5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 50px;
+}
+
+.hralign {
+    width: 5%;
+    border: 2px solid #070053;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.scls {
+    width: 21%;
+    margin-top: 9rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchpic {
+    width: 7rem;
+    height: 7rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.grppic {
+    width: 5rem;
+    height: 6rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.emepic {
+    width: 6rem;
+    height: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Trackingpic {
+    width: 5rem;
+    height: 6rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    color: #7D7987;
+    margin-top: 1rem;
+}
+
+.bottlepic {
+    width: 5rem;
+    height: 7rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alignmargin {
+    margin-left: 6rem;
+    margin-right: 6rem;
+    margin-bottom: 5rem;
+    height: 20rem;
+}
+
+.card1 {
+    margin-right: 5rem;
+    border-style: hidden;
+    border-radius: 5%;
+}
+
+.framepic {
+    width: 5rem;
+    height: 7rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cardlast {
+    border-style: hidden;
+    border-radius: 5%;
+}
+
+.parafor {
+    color: #CCD2E9;
+    font-family: "Roboto";
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.lrnbtn {
+    margin-left: 45rem;
+    margin-top: 4rem;
+    padding: 17.5px;
+    border-radius: 50px;
+}
+
+.txt2color {
+    size: 3rem;
+    color: #3C567B;
+    width: 80%;
+}
+
+.ara {
+    color: #7D7987;
+    font-family: "Mulish";
+    width: 65%;
+}
+
+.ara2 {
+    color: #7D7987;
+    font-family: "Mulish";
+    width: 65%;
+}
+.savtxt{
+    color:white;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.bg{
+    background-image: linear-gradient(#6888C8,#5A98F2);
+    color: white;
+}
+
+.lastimg{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 2rem;
+    width: 2rem;
+}
+.paraagain{
+    width:65%;
+    margin-top:1rem;
+}
+.marginalignment{
+
+    margin-left:6rem;
+    margin-top:5rem;
+}
+.mts{
+    margin-top: 5rem;
+}
+.bebold{
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.paraagain2{
+    font-weight: 300;
+    width:45%;
+}
